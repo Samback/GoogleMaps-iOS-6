@@ -1,0 +1,3 @@
+[submodule "library/Definitions"]
+	path = library/Definitions
+	url = git@github.com:Samback/Define-Macros-.git
